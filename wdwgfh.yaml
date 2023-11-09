@@ -1,4 +1,4 @@
-name: How-I-create-my-identity
+name: wdwgfh
 channels:
   - anaconda
   - vsc
@@ -157,4 +157,3 @@ dependencies:
     - tornado==6.3.3
     - wheel==0.41.2
     - zipp==3.11.0
-prefix: /Users/admin/opt/anaconda3/envs/How-I-create-my-identity
